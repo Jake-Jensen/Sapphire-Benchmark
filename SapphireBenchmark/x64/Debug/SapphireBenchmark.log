@@ -1,0 +1,11 @@
+﻿  SapphireBenchmark.cpp
+c:\users\nuclear\source\repos\sapphirebenchmark\sapphirebenchmark\sapphirebenchmark.cpp(63): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  SapphireBenchmark.vcxproj -> C:\Users\Nuclear\source\repos\SapphireBenchmark\x64\Debug\SapphireBenchmark.exe

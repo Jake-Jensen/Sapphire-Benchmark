@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  SapphireBenchmark.cpp
+c:\users\nuclear\source\repos\sapphire-benchmark\sapphirebenchmark\sapphirebenchmark.cpp(63): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  Generating code
+  137 of 141 functions (97.2%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SapphireBenchmark.vcxproj -> C:\Users\Nuclear\Source\Repos\Sapphire-Benchmark\x64\Release\SapphireBenchmark.exe

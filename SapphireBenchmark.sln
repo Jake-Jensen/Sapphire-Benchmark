@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SapphireBenchmark", "SapphireBenchmark\SapphireBenchmark.vcxproj", "{9E014954-E927-4150-AAE9-A9C98443D230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E014954-E927-4150-AAE9-A9C98443D230}.Debug|x64.ActiveCfg = Debug|x64
+		{9E014954-E927-4150-AAE9-A9C98443D230}.Debug|x64.Build.0 = Debug|x64
+		{9E014954-E927-4150-AAE9-A9C98443D230}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E014954-E927-4150-AAE9-A9C98443D230}.Debug|x86.Build.0 = Debug|Win32
+		{9E014954-E927-4150-AAE9-A9C98443D230}.Release|x64.ActiveCfg = Release|x64
+		{9E014954-E927-4150-AAE9-A9C98443D230}.Release|x64.Build.0 = Release|x64
+		{9E014954-E927-4150-AAE9-A9C98443D230}.Release|x86.ActiveCfg = Release|Win32
+		{9E014954-E927-4150-AAE9-A9C98443D230}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BF8392B-15A9-4908-94B9-FDFAE6D1D797}
+	EndGlobalSection
+EndGlobal
